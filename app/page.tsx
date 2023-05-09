@@ -1,7 +1,5 @@
-import Logo from "@/components/logo";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 import Image from "next/image";
-import Typewriter from "typewriter-effect";
 
 export default function IndexPage() {
   return (
